@@ -6,7 +6,7 @@ function chillHop() {
         {
             name:"Jazz Soul",
             artist: "Music",
-            cover: "https://cdn-icons-png.flaticon.com/128/7000/7000450.png",
+            cover: "https://img.freepik.com/premium-vector/jazz-blues-night-club-neon-signs-style-text-vector_118419-3523.jpg?w=2000",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
             audio: "https://stream.srg-ssr.ch/m/rsj/mp3_128",
@@ -15,7 +15,7 @@ function chillHop() {
         {
             name:"Smooth Jazz",
             artist: "Music",
-            cover: "https://cdn-icons-png.flaticon.com/128/7000/7000450.png",
+            cover: "https://img.freepik.com/premium-vector/jazz-blues-night-club-neon-signs-style-text-vector_118419-3523.jpg?w=2000",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://stream.open.fm/60",
@@ -24,7 +24,7 @@ function chillHop() {
         {
             name:"Jazz and Blues",
             artist: "Music",
-            cover: "https://cdn-icons-png.flaticon.com/128/7000/7000450.png",
+            cover: "https://img.freepik.com/premium-vector/jazz-blues-night-club-neon-signs-style-text-vector_118419-3523.jpg?w=2000",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
             audio: "https://jazzblues.ice.infomaniak.ch/jazzblues-high",
@@ -33,7 +33,7 @@ function chillHop() {
         {
             name:"Smooth Sax",
             artist: "Jazz and Blues",
-            cover: "https://cdn-icons-png.flaticon.com/128/7000/7000450.png",
+            cover: "https://img.freepik.com/premium-vector/jazz-blues-night-club-neon-signs-style-text-vector_118419-3523.jpg?w=2000",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://radio4.cdm-radio.com:18024/stream-mp3-Smooth",
@@ -42,7 +42,7 @@ function chillHop() {
         {
             name:"Jazz and Blue mode",
             artist: "Music",
-            cover: "https://cdn-icons-png.flaticon.com/128/7000/7000450.png",
+            cover: "https://img.freepik.com/premium-vector/jazz-blues-night-club-neon-signs-style-text-vector_118419-3523.jpg?w=2000",
             id: uuidv4(),
             color: ["#845648","#FDFBDF"],
             audio: "https://stream-10.zeno.fm/u40kkya8hg8uv?zs=XPlVd_jcRmyZ9jYVqZOZzg",
@@ -51,7 +51,7 @@ function chillHop() {
         {
             name:"Jazz Funk",
             artist: "Music",
-            cover: "https://cdn-icons-png.flaticon.com/128/7000/7000450.png",
+            cover: "https://img.freepik.com/premium-vector/jazz-blues-night-club-neon-signs-style-text-vector_118419-3523.jpg?w=2000",
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
             audio: "https://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3",
@@ -60,7 +60,7 @@ function chillHop() {
         {
             name:"Jazz Groove",
             artist: "Music",
-            cover: "https://cdn-icons-png.flaticon.com/128/7000/7000450.png",
+            cover: "https://img.freepik.com/premium-vector/jazz-blues-night-club-neon-signs-style-text-vector_118419-3523.jpg?w=2000",
             id: uuidv4(),
             color: ["#191516", "#82698E"],
             audio: "https://audio-edge-kef8b.ams.s.radiomast.io/700d62fe-dcc8-4171-a430-0f0393320b3d",
@@ -69,7 +69,7 @@ function chillHop() {
         {
             name:"Happy Soul",
             artist: "Jazz and Blues",
-            cover: "https://cdn-icons-png.flaticon.com/128/7000/7000450.png",
+            cover: "https://img.freepik.com/premium-vector/jazz-blues-night-club-neon-signs-style-text-vector_118419-3523.jpg?w=2000",
             id: uuidv4(),
             color: ["#7BC8DD", "#D64A59"],
             audio: "https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3",
@@ -78,7 +78,7 @@ function chillHop() {
         {
             name:"Blues and Jazz Love",
             artist: "Music",
-            cover: "https://cdn-icons-png.flaticon.com/128/7000/7000450.png",
+            cover: "https://img.freepik.com/premium-vector/jazz-blues-night-club-neon-signs-style-text-vector_118419-3523.jpg?w=2000",
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
             audio: "https://strm112.1.fm/ajazz_mobile_aac",
@@ -87,7 +87,7 @@ function chillHop() {
         {
             name:"Just Relax",
             artist: "Jazz and Blues",
-            cover: "https://cdn-icons-png.flaticon.com/128/7000/7000450.png",
+            cover: "https://img.freepik.com/premium-vector/jazz-blues-night-club-neon-signs-style-text-vector_118419-3523.jpg?w=2000",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
             audio: "https://ais-sa5.cdnstream1.com/b48071_128mp3",
